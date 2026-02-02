@@ -1,10 +1,10 @@
 # Manejando-archivos-de-texto-y-validaciones
-Descripcion:
+# Descripcion:
 
 el programa consta de un formulario de ingreso de empleados en el cual se deben de realizar las validaciones establecidas y ademas generar un archivo de texto q muestre todo en formato de tabla.
 
 
-Herramientas utilizadas:
+# Herramientas utilizadas:
 
 C#
 
@@ -12,7 +12,7 @@ C#
 
 Visual Studio 2026
 
-Imágenes de la ejecución del proyecto:
+# Imágenes de la ejecución del proyecto:
 
 <img width="685" height="347" alt="Interfaz" src="https://github.com/user-attachments/assets/3d08b1b8-727b-4027-8ffa-b251d795566f" />
 <img width="683" height="344" alt="Comprobacion" src="https://github.com/user-attachments/assets/5d42bf12-41aa-4081-b0cf-354ae99edaa5" />
@@ -23,7 +23,7 @@ Imágenes de la ejecución del proyecto:
 <img width="700" height="346" alt="Archivo formato tabla" src="https://github.com/user-attachments/assets/e58e070b-d3e2-463c-bb7b-ed5e7803e247" />
 <img width="680" height="342" alt="Mensaje de alerta de salida" src="https://github.com/user-attachments/assets/32e07ba6-ed91-495b-885d-22c2dc48f24c" />
 
-Uso o Ejecución:
+# Uso o Ejecución:
 
 Clonar el repositorio desde GitHub
 
@@ -40,7 +40,7 @@ Ejecutar la aplicación presionando F5 o el botón Iniciar
 
 La aplicación se abrirá mostrando el formulario principal
 
-Contexto Académico:
+# Contexto Académico:
 
 Nivel: Secundaria Técnico Profesional
 
@@ -50,5 +50,6 @@ Curso / Sección:5to-D2
 
 Año escolar:5to de secundaria
 
-Autores: Yadiel Tavarez Rosario y Franci Enmanuel Gonzalez Guerrero
+#Autores: 
+Yadiel Tavarez Rosario y Franci Enmanuel Gonzalez Guerrero
 
