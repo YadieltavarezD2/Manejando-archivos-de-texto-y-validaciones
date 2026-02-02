@@ -41,14 +41,14 @@ Ejecutar la aplicación presionando F5 o el botón Iniciar
 La aplicación se abrirá mostrando el formulario principal
 
 # Contexto Académico:
+  
+- Nivel: Secundaria Técnico Profesional
 
-Nivel: Secundaria Técnico Profesional
-
-Módulo Formativo:Desarrollo de aplicaciones
-
-Curso / Sección:5to-D2
-
-Año escolar:5to de secundaria
+- Módulo Formativo:Desarrollo de aplicaciones
+  
+- Curso / Sección:5to-D2
+  
+- Año escolar:5to de secundaria
 
 #Autores: 
 Yadiel Tavarez Rosario y Franci Enmanuel Gonzalez Guerrero
